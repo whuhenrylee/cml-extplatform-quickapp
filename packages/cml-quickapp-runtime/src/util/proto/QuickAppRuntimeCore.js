@@ -124,7 +124,7 @@ export default class QuickAppRuntimeCore {
 
     proxy(context, context.__cml_ob_data__)
   }
-
+  
   /**
    * 启动器
    * @param  {[type]} context [description]
